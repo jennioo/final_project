@@ -1,0 +1,115 @@
+John Williams, 18, Mathematics:85, English Language:72, Physics:91, Chemistry:63, Biology:88, Computer Science:45, Economics:77, Geography:52
+Michael Brown, 15, English Language:68, Physics:93, Chemistry:81, Biology:44, Computer Science:76, Economics:59, Geography:91, History:37
+David Johnson, 17, Mathematics:92, Chemistry:55, Biology:78, Computer Science:66, Economics:43, Geography:88, History:71, Government:59
+Samuel Okafor, 19, Physics:64, Chemistry:89, Biology:37, Economics:82, Geography:45, History:93, Government:68, Literature:51
+Daniel Adeyemi, 16, Mathematics:73, English Language:86, Biology:59, Computer Science:91, Geography:42, History:77, Government:64, Civic Education:88
+Peter Obi, 14, English Language:95, Physics:61, Chemistry:78, Computer Science:33, Economics:84, History:56, Literature:92, Agricultural Science:47
+James Anderson, 18, Mathematics:67, Physics:82, Biology:49, Economics:95, Geography:71, Government:38, Civic Education:84, Religious Studies:62
+Paul Thompson, 15, Chemistry:91, Biology:54, Computer Science:77, Geography:63, History:46, Literature:89, Civic Education:35, Fine Arts:81
+Andrew Collins, 19, Mathematics:44, English Language:78, Physics:92, Economics:55, Government:87, Literature:61, Agricultural Science:74, Religious Studies:39
+Joseph Okoye, 17, Physics:85, Chemistry:38, Biology:93, Computer Science:67, History:51, Civic Education:79, Religious Studies:44, Fine Arts:88
+Mark Taylor, 16, Mathematics:59, English Language:87, Chemistry:72, Geography:94, Government:46, Literature:68, Agricultural Science:83, Fine Arts:31
+Benjamin Clark, 14, Physics:76, Biology:62, Computer Science:89, Economics:41, History:95, Civic Education:53, Religious Studies:77, Fine Arts:64
+Anthony Rodriguez, 18, Mathematics:88, English Language:45, Chemistry:91, Geography:57, Literature:73, Agricultural Science:66, Religious Studies:39, Fine Arts:82
+Christopher Martinez, 19, Physics:52, Biology:84, Computer Science:68, Economics:93, Government:47, Civic Education:75, Agricultural Science:59, Religious Studies:86
+Matthew Garcia, 15, Mathematics:79, Chemistry:64, Geography:48, History:91, Literature:55, Civic Education:82, Fine Arts:67, English Language:93
+Joshua Wilson, 17, English Language:71, Physics:89, Biology:43, Economics:76, Government:92, Agricultural Science:58, Religious Studies:84, Fine Arts:41
+Emmanuel Chukwu, 16, Mathematics:83, Chemistry:57, Computer Science:94, Geography:69, History:45, Literature:88, Civic Education:62, Agricultural Science:76
+Victor Nwosu, 14, Physics:66, Biology:91, Economics:54, Government:78, Literature:87, Religious Studies:49, Fine Arts:73, Mathematics:35
+Isaac Olaniyan, 18, English Language:92, Chemistry:47, Computer Science:81, History:63, Civic Education:95, Agricultural Science:52, Fine Arts:78, Physics:66
+Solomon Eze, 19, Mathematics:54, Biology:77, Geography:89, Government:42, Literature:68, Religious Studies:93, Fine Arts:56, English Language:81
+Abraham Mensah, 15, Physics:87, Chemistry:71, Economics:46, History:92, Civic Education:58, Agricultural Science:84, Religious Studies:67, Computer Science:39
+Jacob Afolabi, 17, Mathematics:69, English Language:83, Biology:95, Geography:51, Government:74, Literature:62, Fine Arts:88, Chemistry:44
+Nathan Davies, 16, Physics:78, Computer Science:56, Economics:91, History:67, Civic Education:43, Agricultural Science:79, Religious Studies:85, Biology:52
+Caleb Moore, 14, Mathematics:91, Chemistry:58, Geography:84, Literature:46, Religious Studies:72, Fine Arts:93, English Language:64, Physics:37
+Elijah Kamara, 18, Biology:82, Computer Science:69, Government:94, Civic Education:51, Agricultural Science:76, Fine Arts:63, Mathematics:88, Economics:45
+Lucas Mensah, 19, English Language:74, Physics:48, Chemistry:86, History:92, Literature:57, Religious Studies:81, Computer Science:65, Geography:39
+Gabriel Okoro, 15, Mathematics:63, Biology:89, Economics:52, Government:76, Civic Education:94, Agricultural Science:68, Fine Arts:43, Physics:85
+Alexander White, 17, Chemistry:77, Computer Science:91, Geography:55, History:82, Literature:48, Religious Studies:69, English Language:93, Biology:61
+Ryan Harris, 16, Mathematics:85, Physics:62, Economics:94, Civic Education:47, Agricultural Science:73, Fine Arts:88, Chemistry:54, Government:79
+Kevin Martin, 14, English Language:69, Biology:86, Computer Science:51, History:77, Literature:93, Religious Studies:62, Geography:84, Physics:45
+George Thompson, 18, Mathematics:92, Chemistry:66, Economics:48, Government:83, Civic Education:71, Fine Arts:57, Biology:89, English Language:74
+Timothy Lee, 19, Physics:81, Computer Science:94, Geography:58, Literature:75, Agricultural Science:43, Religious Studies:87, History:62, Mathematics:49
+Adam Walker, 15, English Language:76, Chemistry:53, Biology:88, Economics:65, Government:92, Civic Education:47, Fine Arts:79, Physics:84
+Stephen Hall, 17, Mathematics:58, Computer Science:82, History:69, Literature:91, Religious Studies:54, Agricultural Science:77, Geography:43, Chemistry:86
+Patrick Allen, 16, Physics:87, Biology:61, Economics:93, Civic Education:76, Fine Arts:48, English Language:82, Government:55, Mathematics:69
+Henry Young, 14, Chemistry:72, Computer Science:89, Geography:54, History:81, Agricultural Science:66, Religious Studies:92, Literature:47, Physics:78
+Charles King, 18, Mathematics:64, English Language:91, Biology:77, Economics:49, Government:83, Civic Education:58, Fine Arts:86, Chemistry:71
+Thomas Wright, 19, Physics:93, Computer Science:56, History:84, Literature:68, Religious Studies:45, Agricultural Science:91, Geography:72, Biology:59
+Brandon Lopez, 15, Mathematics:81, Chemistry:67, Economics:92, Civic Education:53, Fine Arts:76, English Language:88, Government:61, Physics:44
+Jason Hill, 17, Biology:74, Computer Science:87, Geography:59, History:93, Literature:66, Religious Studies:82, Mathematics:48, Chemistry:75
+Justin Scott, 16, English Language:89, Physics:62, Economics:78, Government:94, Agricultural Science:51, Fine Arts:73, Civic Education:85, Biology:57
+Aaron Green, 14, Mathematics:77, Chemistry:91, Computer Science:64, History:82, Literature:47, Religious Studies:69, Geography:93, Physics:55
+Nicholas Adams, 18, Biology:83, Economics:58, Government:91, Civic Education:72, Fine Arts:86, English Language:49, Physics:76, Mathematics:64
+Austin Baker, 19, Chemistry:69, Computer Science:85, Geography:93, History:56, Agricultural Science:78, Religious Studies:62, Literature:88, Biology:47
+Jonathan Nelson, 15, Mathematics:92, English Language:67, Physics:81, Economics:54, Government:76, Civic Education:89, Fine Arts:43, Chemistry:71
+Christian Carter, 17, Biology:58, Computer Science:93, History:75, Literature:84, Religious Studies:49, Agricultural Science:67, Geography:91, Physics:62
+Kyle Mitchell, 16, Mathematics:86, Chemistry:71, Economics:94, Civic Education:57, Fine Arts:79, English Language:63, Government:88, Biology:52
+Zachary Perez, 14, Physics:79, Computer Science:64, Geography:87, History:92, Literature:55, Religious Studies:81, Mathematics:68, Chemistry:46
+Eric Roberts, 18, English Language:84, Biology:71, Economics:56, Government:93, Agricultural Science:69, Fine Arts:82, Civic Education:47, Physics:75
+Tyler Turner, 19, Mathematics:67, Chemistry:89, Computer Science:52, History:78, Literature:91, Religious Studies:63, Geography:85, Biology:49
+Brian Phillips, 15, Physics:93, Economics:68, Government:82, Civic Education:54, Fine Arts:77, English Language:91, Mathematics:61, Chemistry:84
+Derek Campbell, 17, Biology:75, Computer Science:88, Geography:62, History:94, Agricultural Science:56, Religious Studies:79, Literature:83, Physics:68
+Sean Parker, 16, Mathematics:82, English Language:58, Chemistry:91, Economics:73, Government:86, Civic Education:64, Fine Arts:49, Biology:77
+Carlos Evans, 14, Physics:66, Computer Science:92, History:81, Literature:57, Religious Studies:88, Agricultural Science:72, Geography:94, Chemistry:53
+Marcus Edwards, 18, Mathematics:89, Biology:63, Economics:77, Government:91, Civic Education:58, Fine Arts:84, English Language:72, Physics:46
+Gregory Collins, 19, Chemistry:78, Computer Science:85, Geography:93, History:61, Literature:74, Religious Studies:52, Mathematics:86, Biology:69
+Raymond Stewart, 15, English Language:91, Physics:67, Economics:82, Civic Education:94, Agricultural Science:58, Fine Arts:76, Government:83, Chemistry:49
+Peter Sanchez, 17, Mathematics:73, Biology:88, Computer Science:54, History:79, Literature:92, Religious Studies:66, Geography:81, Physics:57
+Adrian Morris, 16, Chemistry:85, Economics:69, Government:93, Civic Education:51, Fine Arts:78, English Language:86, Mathematics:62, Biology:74
+Connor Rogers, 14, Physics:92, Computer Science:76, Geography:58, History:84, Agricultural Science:91, Religious Studies:67, Literature:82, Chemistry:53
+Jaden Reed, 18, Mathematics:68, English Language:94, Biology:79, Economics:53, Government:87, Civic Education:72, Fine Arts:61, Physics:85
+Juan Cook, 19, Chemistry:81, Computer Science:62, History:93, Literature:76, Religious Studies:88, Agricultural Science:54, Geography:69, Biology:91
+Evan Morgan, 15, Mathematics:77, Physics:89, Economics:64, Civic Education:91, Fine Arts:57, English Language:82, Government:73, Chemistry:68
+Oscar Bell, 17, Biology:86, Computer Science:71, Geography:94, History:58, Literature:83, Religious Studies:69, Mathematics:92, Physics:54
+Louis Murphy, 16, English Language:79, Chemistry:93, Economics:66, Government:81, Agricultural Science:74, Fine Arts:88, Civic Education:52, Biology:67
+Shane Bailey, 14, Mathematics:91, Physics:72, Computer Science:85, History:94, Literature:61, Religious Studies:78, Geography:56, Chemistry:83
+Garrett Rivera, 18, Biology:64, Economics:88, Government:93, Civic Education:77, Fine Arts:51, English Language:84, Mathematics:69, Physics:92
+Cody Cooper, 19, Chemistry:87, Computer Science:59, Geography:76, History:91, Agricultural Science:83, Religious Studies:65, Literature:94, Biology:48
+Tanner Richardson, 15, Mathematics:82, English Language:71, Physics:94, Economics:57, Government:79, Civic Education:86, Fine Arts:63, Chemistry:91
+Fernando Cox, 17, Biology:93, Computer Science:68, History:82, Literature:54, Religious Studies:91, Agricultural Science:77, Geography:85, Physics:61
+Roberto Howard, 16, Mathematics:76, Chemistry:89, Economics:92, Civic Education:64, Fine Arts:81, English Language:57, Government:94, Biology:73
+Pedro Ward, 14, Physics:85, Computer Science:93, Geography:69, History:77, Literature:88, Religious Studies:54, Mathematics:82, Chemistry:66
+Malik Torres, 18, English Language:94, Biology:68, Economics:81, Government:56, Agricultural Science:89, Fine Arts:72, Civic Education:93, Physics:64
+Dominic Peterson, 19, Mathematics:71, Chemistry:86, Computer Science:92, History:63, Literature:79, Religious Studies:94, Geography:57, Biology:84
+Sergio Gray, 15, Physics:88, Economics:74, Government:91, Civic Education:68, Fine Arts:83, English Language:56, Mathematics:92, Chemistry:77
+Dante Ramirez, 17, Biology:82, Computer Science:67, Geography:94, History:86, Agricultural Science:72, Religious Studies:59, Literature:91, Physics:78
+Wesley James, 16, Mathematics:93, English Language:79, Chemistry:64, Economics:88, Government:73, Civic Education:91, Fine Arts:56, Biology:82
+Blake Watson, 14, Physics:77, Computer Science:91, History:83, Literature:68, Religious Studies:86, Agricultural Science:94, Geography:61, Chemistry:75
+Tristan Brooks, 18, Mathematics:84, Biology:92, Economics:67, Government:79, Civic Education:56, Fine Arts:88, English Language:73, Physics:91
+Carson Kelly, 19, Chemistry:69, Computer Science:85, Geography:92, History:74, Literature:91, Religious Studies:63, Mathematics:88, Biology:56
+Ashton Sanders, 15, English Language:86, Physics:94, Economics:71, Civic Education:83, Agricultural Science:67, Fine Arts:92, Government:58, Chemistry:79
+Colton Price, 17, Mathematics:78, Biology:65, Computer Science:91, History:89, Literature:54, Religious Studies:82, Geography:93, Physics:67
+Griffin Bennett, 16, Chemistry:92, Economics:76, Government:88, Civic Education:94, Fine Arts:63, English Language:81, Mathematics:57, Biology:89
+Micah Wood, 14, Physics:83, Computer Science:69, Geography:91, History:78, Agricultural Science:86, Religious Studies:72, Literature:94, Chemistry:61
+Elias Barnes, 18, Mathematics:87, English Language:93, Biology:74, Economics:62, Government:85, Civic Education:79, Fine Arts:91, Physics:68
+Silas Ross, 19, Chemistry:74, Computer Science:88, History:92, Literature:67, Religious Studies:81, Agricultural Science:93, Geography:76, Biology:84
+Maxwell Henderson, 15, Mathematics:91, Physics:68, Economics:83, Civic Education:76, Fine Arts:89, English Language:94, Government:62, Chemistry:85
+Camden Coleman, 17, Biology:79, Computer Science:92, Geography:85, History:69, Literature:94, Religious Studies:77, Mathematics:83, Physics:58
+Nolan Jenkins, 16, English Language:88, Chemistry:73, Economics:91, Government:67, Agricultural Science:82, Fine Arts:76, Civic Education:94, Biology:69
+Giovanni Perry, 14, Mathematics:82, Physics:91, Computer Science:77, History:85, Literature:63, Religious Studies:94, Geography:71, Chemistry:88
+Kayden Powell, 18, Biology:76, Economics:89, Government:94, Civic Education:68, Fine Arts:83, English Language:72, Mathematics:91, Physics:85
+Brayden Long, 19, Chemistry:88, Computer Science:94, Geography:73, History:91, Agricultural Science:68, Religious Studies:85, Literature:77, Biology:92
+Jayce Patterson, 15, Mathematics:69, English Language:85, Physics:92, Economics:78, Government:91, Civic Education:64, Fine Arts:87, Chemistry:73
+Adewale Johnson, 16, Mathematics:78, English Language:85, Physics:69, Chemistry:74, Biology:88, Economics:62, Geography:71, Civic Education:90
+Ibrahim Musa, 18, Physics:91, Chemistry:84, Biology:77, Mathematics:65, English Language:72, Economics:69, Geography:58, Civic Education:81
+Chinedu Okonkwo, 17, Mathematics:88, English Language:79, Biology:91, Physics:73, Chemistry:67, Government:84, Civic Education:76, Geography:82
+Daniel Mensah, 15, English Language:92, Mathematics:74, Chemistry:56, Biology:81, Computer Science:89, Geography:63, Civic Education:77, Economics:68
+Samuel Balogun, 19, Physics:86, Mathematics:81, Chemistry:78, Economics:69, Biology:72, Government:88, Civic Education:74, Geography:66
+Isaiah Bello, 14, Mathematics:69, English Language:83, Physics:72, Chemistry:65, Biology:79, Agricultural Science:91, Civic Education:84, Geography:58
+Kelvin Danjuma, 18, Physics:94, Computer Science:87, Mathematics:68, Chemistry:73, Biology:81, Geography:59, Civic Education:76, Economics:64
+Musa Abdullahi, 16, Mathematics:82, English Language:74, Economics:91, Government:69, Geography:88, Civic Education:77, Biology:72, Chemistry:65
+Tunde Akinwale, 17, Mathematics:91, Physics:76, Chemistry:84, English Language:69, Biology:73, Geography:65, Civic Education:81, Economics:78
+Sadiq Lawal, 19, Economics:88, Mathematics:74, Physics:66, Chemistry:71, Biology:85, Civic Education:92, Geography:69, Government:77
+Blessing Nnamdi, 15, English Language:94, Biology:78, Chemistry:69, Mathematics:81, Civic Education:88, Geography:72, Economics:66, Government:75
+Esther Yakubu, 16, Mathematics:83, Physics:71, Chemistry:76, Biology:91, English Language:89, Economics:65, Geography:77, Civic Education:82
+Grace Olatunji, 18, English Language:92, Government:84, Biology:79, Chemistry:66, Mathematics:73, Civic Education:88, Geography:71, Economics:64
+Victoria Eze, 17, Biology:91, Chemistry:78, Physics:69, Mathematics:84, English Language:75, Geography:86, Civic Education:81, Economics:72
+Ruth Abiola, 14, Mathematics:72, English Language:88, Biology:69, Chemistry:74, Civic Education:90, Geography:81, Economics:66, Agricultural Science:85
+Deborah Sadiq, 15, English Language:91, Mathematics:77, Biology:83, Chemistry:68, Economics:72, Civic Education:85, Geography:69, Government:74
+Hannah Sule, 18, Biology:87, Physics:71, Chemistry:82, Mathematics:76, English Language:89, Geography:65, Civic Education:81, Economics:73
+Janet Okorie, 19, Mathematics:93, Biology:88, English Language:86, Chemistry:74, Government:69, Civic Education:91, Geography:77, Economics:82
+Naomi Ibrahim, 17, Economics:91, Mathematics:73, English Language:84, Biology:76, Chemistry:68, Geography:82, Civic Education:88, Government:74
+Peace Adetayo, 16, English Language:95, Biology:81, Chemistry:69, Mathematics:74, Civic Education:88, Geography:73, Economics:66, Government:79
+
+
